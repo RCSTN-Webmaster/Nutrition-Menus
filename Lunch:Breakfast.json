@@ -1,7 +1,7 @@
 {
     "default": {
       "2025-04-30": { "breakfast": "Mini Powdered Donut Holes or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Pizza choices, turkey sandwich, turkey and cheese sandwich, corn, marinara sauce, and fruit and milk choices." },
-      "2025-05-02": { "breakfast": "Chicken Buscuit or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Eggs, sausage, and biscuit, turkey sandwich, turkey and cheese sandwich, tater tots, sliced tomatoes for grades six through twelve only, and fruit and milk choices." },
+      "2025-05-01": { "breakfast": "Chicken Buscuit or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Eggs, sausage, and biscuit, turkey sandwich, turkey and cheese sandwich, tater tots, sliced tomatoes for grades six through twelve only, and fruit and milk choices." },
       "2025-05-03": { "breakfast": "", "lunch": "" },
       "2025-05-04": { "breakfast": "", "lunch": "" },
       "2025-05-05": { "breakfast": "Banana Bread or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Mandarin orange chicken, chef salads, ham sandwich or ham and cheese for grades six through twelve only, vegetable fried rice, steamed broccoli, dragon punch for grades six through twelve only, and fruit and milk choices." },
@@ -33,7 +33,7 @@
     },
     "prek_headstart": {
       "2025-04-30": { "breakfast": "Whole grain blueberry muffin, half cup fruit, and one cup 1% white milk.", "lunch": "Whole grain cheese pizza, half cup corn, half cup fruit, and one cup 1% white milk." },
-      "2025-05-02": { "breakfast": "Chicken biscuit, half cup fruit, and one cup 1% white milk.", "lunch": "Scrambled eggs, chicken sausage patty, biscuit, half cup tator tots, half cup fruit, and one cup 1% white milk." },
+      "2025-05-01": { "breakfast": "Chicken biscuit, half cup fruit, and one cup 1% white milk.", "lunch": "Scrambled eggs, chicken sausage patty, biscuit, half cup tator tots, half cup fruit, and one cup 1% white milk." },
       "2025-05-03": { "breakfast": "", "lunch": "" },
       "2025-05-04": { "breakfast": "", "lunch": "" },
       "2025-05-05": { "breakfast": "Cinnamon toast crunch cereal, half cup fruit, and one cup 1% white milk.", "lunch": "Mandarin orange chicken, brown rice, half cup steamed broccoli, half cup fruit, and one cup 1% white milk." },
