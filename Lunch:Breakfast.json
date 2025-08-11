@@ -1,69 +1,153 @@
 {
-    "default": {
-      "2025-07-10": { "breakfast": "Start your day with mini maple pancakes or 'Choose 2' breakfast items, served with fruit and your choice of milk!", "lunch": "Enjoy chicken cordon bleu with a dinner roll, chef salads, a grilled cheese sandwich (for grades 6-12), green beans, oven-browned potatoes (for grades 6-12), and fruit with your choice of milk." },
-      "2025-05-01": { "breakfast": "Start your morning with mini powdered donut holes or 'Choose 2' breakfast items, served with fruit and your choice of milk!", "lunch": "Enjoy pizza choices, a turkey sandwich, turkey and cheese sandwich, corn, marinara sauce, and your choice of fruit and milk!" },
-      "2025-05-02": { "breakfast": "Chicken Biscuit or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Eggs, sausage, and biscuit, turkey sandwich, turkey and cheese sandwich, tater tots, sliced tomatoes for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-03": { "breakfast": "", "lunch": "" },
-      "2025-05-04": { "breakfast": "", "lunch": "" },
-      "2025-05-05": { "breakfast": "Banana Bread or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Mandarin orange chicken, chef salads, ham sandwich or ham and cheese for grades six through twelve only, vegetable fried rice, steamed broccoli, dragon punch for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-06": { "breakfast": "Chicken Sausage Croissant or 'Choose 2' Breakfast Items. Served with Tator Tots, Fruit and Milk Choices", "lunch": "Cheeseburger macaroni and cheese with garlic breadstick, yogurt parfait, cucumber coins, sweet glazed carrots for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-07": { "breakfast": "Mini Cinni or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Chicken and cheese tacos, chef salads, grilled cheese sandwich for grades six through twelve only, refried beans, salsa cup, and fruit and milk choices." },
-      "2025-05-08": { "breakfast": "Mini Glaze Breakfast Bites or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Pizza choices, turkey sandwich, turkey and cheese sandwich, corn, marinara sauce, and fruit and milk choices." },
-      "2025-05-09": { "breakfast": "Country Steak or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Regular or spicy chicken sandwich, turkey sandwich, turkey and cheese sandwich, french fries, lettuce and tomato trimmings for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-10": { "breakfast": "", "lunch": "" },
-      "2025-05-11": { "breakfast": "", "lunch": "" },
-      "2025-05-12": { "breakfast": "Sausage Cheese & Potato Breakfast Taco or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices", "lunch": "Chicken and waffles, chef salads, ham sandwich or ham and cheese for grades six through twelve only, mashed potatoes and gravy, green peas for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-13": { "breakfast": "Chicken Sausage Croissant or 'Choose 2' Breakfast Items. Served with Tator Tots, Fruit and Milk Choices", "lunch": "Chicken with Alfredo pasta, yogurt parfait, broccoli and cheese, dragon punch for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-14": { "breakfast": "Cinnamon Swirl or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices",   "lunch": "Meatball sub, chef salads, grilled cheese sandwich for grades six through twelve only, fresh baby carrots with ranch, green beans, fruit and milk choices, and an ice cream cup." },
-      "2025-05-15": { "breakfast": "Mini Chocolate Donuts or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices",   "lunch": "Pizza choices, turkey sandwich, turkey and cheese sandwich, corn, marinara sauce, and fruit and milk choices." },
-      "2025-05-16": { "breakfast": "Chicken Biscuit or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices",   "lunch": "Hamburger or cheeseburger, turkey sandwich, turkey and cheese sandwich, baked beans, lettuce and tomato trimmings for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-17": { "breakfast": "", "lunch": "" },
-      "2025-05-18": { "breakfast": "", "lunch": "" },
-      "2025-05-19": { "breakfast": "Breakfast Bread or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices",   "lunch": "Boneless chicken bites, buffalo chicken bites for grades six through twelve only, wow butter sandwich for grades kindergarten through fifth only, ham sandwich or ham and cheese for grades six through twelve only, dinner roll for grades six through twelve only, broccoli and cheese, celery sticks with ranch for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-20": { "breakfast": "Chicken Sausage Croissant or 'Choose 2' Breakfast Items. Served with Tator Tots, Fruit and Milk Choices",   "lunch": "Taco meat with tortilla chips, yogurt parfait, pinto beans, salsa, white queso cheese, and fruit and milk choices." },
-      "2025-05-21": { "breakfast": "Mini Maple Pancakes or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices",   "lunch": "Salisbury steak with dinner roll, grilled cheese sandwich, green beans, steamed carrots for grades six through twelve only, and fruit and milk choices." },
-      "2025-05-22": { "breakfast": "Mini Powdered Donut Holes or 'Choose 2' Breakfast Items. Served with Fruit and Milk Choices",   "lunch": "Pizza choices, turkey sandwich, turkey and cheese sandwich, corn, marinara sauce, and fruit and milk choices." },
-      "2025-05-24": { "breakfast": "", "lunch": "" },
-      "2025-05-25": { "breakfast": "", "lunch": "" },
-      "2025-05-26": { "breakfast": "", "lunch": "" },
-      "2025-05-27": { "breakfast": "", "lunch": "" },
-      "2025-05-28": { "breakfast": "", "lunch": "" },
-      "2025-05-29": { "breakfast": "", "lunch": "" },
-      "2025-05-30": { "breakfast": "", "lunch": "" },
-      "2025-05-31": { "breakfast": "", "lunch": "" }
+  "default": {
+    "2025-08-01": { "breakfast": "", "lunch": "" },
+    "2025-08-02": { "breakfast": "", "lunch": "" },
+    "2025-08-03": { "breakfast": "", "lunch": "" },
+    "2025-08-04": { "breakfast": "", "lunch": "" },
+    "2025-08-05": { "breakfast": "", "lunch": "" },
+    "2025-08-06": { "breakfast": "", "lunch": "" },
+    "2025-08-07": { "breakfast": "", "lunch": "" },
+    "2025-08-08": { "breakfast": "", "lunch": "" },
+    "2025-08-09": { "breakfast": "", "lunch": "" },
+    "2025-08-10": { "breakfast": "", "lunch": "" },
+    "2025-08-11": { "breakfast": "", "lunch": "" },
+    "2025-08-12": { 
+      "breakfast": "Start your day with a yummy chicken sausage croissant, or pick any 'Choose 2' breakfast items! Served with tasty tator tots, fresh fruit, and your choice of milk!", 
+      "lunch": "It's taco time! Enjoy taco meat with crunchy tortilla chips, a cool yogurt parfait, pinto beans, zesty salsa, shredded lettuce, creamy white queso cheese, plus fresh fruit and milk choices!" 
     },
-    "prek_headstart": {
-      "2025-04-30": { "breakfast": "Enjoy whole grain mini maple pancakes, a half-cup of fruit, and a cup of 1% white milk to start your day!", "lunch": "We have a grilled cheese sandwich on whole grain bread, served with a half-cup of green beans, a half-cup of fruit, and a cup of 1% white milk." },
-      "2025-05-01": { "breakfast": "Enjoy a whole grain blueberry muffin, a half-cup of fruit, and a cup of 1% white milk!", "lunch": "We've got a whole grain cheese pizza, a half-cup of corn, a half-cup of fruit, and a cup of 1% white milk." },
-      "2025-05-02": { "breakfast": "Chicken biscuit, half cup fruit, and one cup 1% white milk.", "lunch": "Scrambled eggs, chicken sausage patty, biscuit, half cup tator tots, half cup fruit, and one cup 1% white milk." },
-      "2025-05-03": { "breakfast": "", "lunch": "" },
-      "2025-05-04": { "breakfast": "", "lunch": "" },
-      "2025-05-05": { "breakfast": "Cinnamon toast crunch cereal, half cup fruit, and one cup 1% white milk.", "lunch": "Mandarin orange chicken, brown rice, half cup steamed broccoli, half cup fruit, and one cup 1% white milk." },
-      "2025-05-06": { "breakfast": "Chicken sausage on whole grain croissant, half cup fruit, and one cup 1% white milk.", "lunch": "Cheeseburger macaroni and cheese, half cup fresh cucumbers with ranch, half cup fruit, and one cup 1% white milk." },
-      "2025-05-07": { "breakfast": "Whole grain cinnamon waffle, half cup fruit, and one cup 1% white milk.", "lunch": "Grilled cheese sandwich on whole grain bread, half cup refried beans, half cup fruit, and one cup 1% white milk." },
-      "2025-05-08": { "breakfast": "Whole grain blueberry muffin, half cup fruit, and one cup 1% white milk.", "lunch": "Whole grain cheese pizza, half cup corn, half cup fruit, and one cup 1% white milk." },
-      "2025-05-09": { "breakfast": "Steak biscuit, half cup fruit, and one cup 1% white milk.", "lunch": "Chicken sandwich on whole grain bun, half cup french fries, half cup fruit, and one cup 1% white milk." },
-      "2025-05-10": { "breakfast": "", "lunch": "" },
-      "2025-05-11": { "breakfast": "", "lunch": "" },
-      "2025-05-12": { "breakfast": "Whole grain cinnamon waffle, half cup fruit, and one cup 1% white milk.", "lunch": "Whole grain chicken tenders, half cup mashed potatoes, quarter cup brown gravy, half cup fruit, and one cup 1% white milk." },
-      "2025-05-13": { "breakfast": "Chicken sausage on whole grain croissant, half cup fruit, and one cup 1% white milk.", "lunch": "Whole grain chicken, half cup alfredo pasta, half cup broccoli and cheese, half cup fruit, and one cup 1% white milk." },
-      "2025-05-14": { "breakfast": "Cheerios cereal, half cup fruit, and one cup 1% white milk.", "lunch": "Meatball sub on whole grain bread, half cup fresh baby carrots with ranch, half cup fruit, and one cup 1% white milk." },
-      "2025-05-15": { "breakfast": "Whole grain blueberry muffin, half cup fruit, and one cup 1% white milk.", "lunch": "Whole grain cheese pizza, half cup corn, half cup fruit, and one cup 1% white milk." },
-      "2025-05-16": { "breakfast": "Chicken biscuit, half cup fruit, and one cup 1% white milk.", "lunch": "Hamburger on whole grain bun, half cup baked beans, half cup fruit, and one cup 1% white milk." },
-      "2025-05-17": { "breakfast": "", "lunch": "" },
-      "2025-05-18": { "breakfast": "", "lunch": "" },
-      "2025-05-19": { "breakfast": "Whole grain cinnamon waffle, half cup fruit, and one cup 1% white milk.", "lunch": "Whole grain popcorn chicken, half cup broccoli and cheese, half cup fruit, and one cup 1% white milk." },
-      "2025-05-20": { "breakfast": "Chicken sausage on whole grain croissant, half cup fruit, and one cup 1% white milk.", "lunch": "Taco meat with tortilla chips, half cup pinto beans, half cup fruit, and one cup 1% white milk." },
-      "2025-05-21": { "breakfast": "Whole grain mini maple pancakes, half cup fruit, and one cup 1% white milk.", "lunch": "Salisbury steak on whole grain roll, half cup green beans, and one cup 1% white milk." },
-      "2025-05-22": { "breakfast": "Whole grain blueberry muffin, half cup fruit, and one cup 1% white milk.", "lunch": "Whole grain cheese pizza, half cup corn, half cup fruit, and one cup 1% white milk." },
-      "2025-05-23": { "breakfast": "", "lunch": "" },
-      "2025-05-24": { "breakfast": "", "lunch": "" },
-      "2025-05-25": { "breakfast": "", "lunch": "" },
-      "2025-05-26": { "breakfast": "", "lunch": "" },
-      "2025-05-27": { "breakfast": "", "lunch": "" },
-      "2025-05-28": { "breakfast": "", "lunch": "" },
-      "2025-05-29": { "breakfast": "", "lunch": "" },
-      "2025-05-30": { "breakfast": "", "lunch": "" },
-      "2025-05-31": { "breakfast": "", "lunch": "" }
+    "2025-08-13": { 
+      "breakfast": "Wake up to mini maple pancakes, or pick any 'Choose 2' breakfast items! Served with fresh fruit and your choice of milk!", 
+      "lunch": "Get ready for Salisbury steak with a warm dinner roll, chef salads, a grilled cheese sandwich for grades six through twelve, sweet corn for grades six through twelve, steamed carrots, plus fresh fruit, milk choices, and even ice cream!" 
+    },
+    "2025-08-14": { 
+      "breakfast": "Start your morning with mini powdered doughnut holes, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Dig in to signature macaroni and cheese with a warm garlic breadstick, turkey sandwich or turkey and cheese, green beans, marinara cup, and fresh fruit with milk choices!" 
+    },
+    "2025-08-15": { 
+      "breakfast": "Rise and shine with a country steak biscuit, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Enjoy a regular or spicy chicken sandwich, turkey sandwich or turkey and cheese, crispy french fries, lettuce and tomato trimmings for grades six through twelve, plus fresh fruit and milk choices!" 
+    },
+    "2025-08-16": { "breakfast": "", "lunch": "" },
+    "2025-08-17": { "breakfast": "", "lunch": "" },
+    "2025-08-18": { 
+      "breakfast": "Have a slice of banana bread, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Boneless chicken bites with a roll for grades six through twelve, popcorn chicken for kindergarten through fifth grade, chef salads, ham sandwich or ham and cheese for grades six through twelve, baked beans, fresh broccoli with ranch, plus fruit and milk choices!" 
+    },
+    "2025-08-19": { 
+      "breakfast": "Enjoy a chicken sausage croissant, or pick any 'Choose 2' breakfast items! Served with tator tots, fruit, and milk choices!", 
+      "lunch": "Tender chicken drumstick with sweet chili ramen bowl, yogurt parfait, sweet glazed carrots, and fresh fruit with milk choices!" 
+    },
+    "2025-08-20": { 
+      "breakfast": "Start your day with a mini cinni, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Chicken parmesan with a warm dinner roll, chef salads, grilled cheese sandwich for grades six through twelve, baked potato for grades six through twelve, half potato for kindergarten through fifth, green beans, cheese cup for the potato, plus fruit and milk choices!" 
+    },
+    "2025-08-21": { 
+      "breakfast": "Six-pack powdered doughnuts, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Pizza choices, turkey sandwich or turkey and cheese, corn, marinara cup, plus fresh fruit and milk choices!" 
+    },
+    "2025-08-22": { 
+      "breakfast": "Chicken biscuit, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Eggs, sausage, and biscuit, turkey sandwich or turkey and cheese, tator tots, white gravy, sliced tomatoes for grades six through twelve, plus fruit and milk choices!" 
+    },
+    "2025-08-23": { "breakfast": "", "lunch": "" },
+    "2025-08-24": { "breakfast": "", "lunch": "" },
+    "2025-08-25": { 
+      "breakfast": "Start your day with cocoa bread, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Mandarin orange chicken, chef salads, ham sandwich or ham and cheese for grades six through twelve, vegetable fried rice, steamed broccoli, cucumbers with ranch for grades six through twelve, plus fruit and milk choices!" 
+    },
+    "2025-08-26": { 
+      "breakfast": "Enjoy a chicken sausage croissant, or pick any 'Choose 2' breakfast items! Served with tator tots, fresh fruit, and milk choices!", 
+      "lunch": "Chicken with alfredo pasta, yogurt parfait, steamed carrots, dragon punch for grades six through twelve, plus fruit and milk choices!" 
+    },
+    "2025-08-27": { 
+      "breakfast": "Turkey sausage and ham bagel, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Chicken and cheese taco, chef salads, grilled cheese sandwich for grades six through twelve, refried beans, salsa cup, plus fruit and milk choices!" 
+    },
+    "2025-08-28": { 
+      "breakfast": "Mini glazed breakfast bites, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Signature macaroni and cheese with a warm garlic breadstick, turkey sandwich or turkey and cheese, green beans, marinara cup, plus fresh fruit and milk choices!" 
+    },
+    "2025-08-29": { 
+      "breakfast": "Country steak biscuit, or pick any 'Choose 2' breakfast items! Served with fresh fruit and milk choices!", 
+      "lunch": "Regular or spicy chicken sandwich, turkey sandwich or turkey and cheese, crispy french fries, lettuce and tomato trimmings for grades six through twelve, plus fresh fruit and milk choices!" 
+    },
+    "2025-08-30": { "breakfast": "", "lunch": "" },
+    "2025-08-31": { "breakfast": "", "lunch": "" }
+
+    },
+  "prek_headstart": {
+    "2025-08-01": { "breakfast": "", "lunch": "" },
+    "2025-08-02": { "breakfast": "", "lunch": "" },
+    "2025-08-03": { "breakfast": "", "lunch": "" },
+    "2025-08-04": { "breakfast": "", "lunch": "" },
+    "2025-08-05": { "breakfast": "", "lunch": "" },
+    "2025-08-06": { "breakfast": "", "lunch": "" },
+    "2025-08-07": { "breakfast": "", "lunch": "" },
+    "2025-08-08": { "breakfast": "", "lunch": "" },
+    "2025-08-09": { "breakfast": "", "lunch": "" },
+    "2025-08-10": { "breakfast": "", "lunch": "" },
+    "2025-08-11": { "breakfast": "", "lunch": "" },
+    "2025-08-12": { 
+      "breakfast": "Enjoy a warm chicken sausage on a whole grain croissant, served with half a cup of fruit and a cup of one percent milk!", 
+      "lunch": "Taco meat with crunchy whole grain tortilla chips, half a cup of pinto beans, a quarter cup of cheddar cheese, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-13": { 
+      "breakfast": "Start your morning with whole grain mini maple pancakes, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Salisbury steak on a whole grain roll, half a cup of steamed carrots, and a cup of one percent white milk!" 
+    },
+    "2025-08-14": { 
+      "breakfast": "A tasty whole grain blueberry muffin, half a cup of fruit, and a cup of one percent white milk!", 
+      "lunch": "Whole grain cheese pizza, half a cup of green beans, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-15": { 
+      "breakfast": "A hearty steak biscuit, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Chicken sandwich on a whole grain bun, half a cup of french fries, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-16": { "breakfast": "", "lunch": "" },
+    "2025-08-17": { "breakfast": "", "lunch": "" },
+    "2025-08-18": { 
+      "breakfast": "Fluffy cinnamon waffle, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Whole grain chicken, half a cup of baked beans, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-19": { 
+      "breakfast": "Chicken sausage on a whole grain croissant, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Turkey and cheese sandwich, half a cup of sweet glazed carrots, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-20": { 
+      "breakfast": "One ounce of whole grain Cheerios, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Whole grain chicken parmesan bites, half a cup of green beans, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-21": { 
+      "breakfast": "A tasty whole grain blueberry muffin, half a cup of fruit, and a cup of one percent white milk!", 
+      "lunch": "Whole grain cheese pizza, half a cup of corn, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-22": { 
+      "breakfast": "Chicken biscuit, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Scrambled eggs with a chicken sausage patty and biscuit, half a cup of tator tots, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-23": { "breakfast": "", "lunch": "" },
+    "2025-08-24": { "breakfast": "", "lunch": "" },
+    "2025-08-25": { 
+      "breakfast": "Fluffy cinnamon waffle, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Mandarin orange chicken, half a cup of whole grain fried rice, half a cup of steamed broccoli, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-26": { 
+      "breakfast": "Chicken sausage on a whole grain croissant, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Whole grain chicken with half a cup of whole grain alfredo pasta, half a cup of steamed carrots, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-27": { 
+      "breakfast": "One ounce of whole grain cinnamon toast crunch cereal, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Grilled cheese sandwich on whole grain bread, half a cup of refried beans, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-28": { 
+      "breakfast": "A tasty whole grain blueberry muffin, half a cup of fruit, and a cup of one percent white milk!", 
+      "lunch": "Whole grain cheese pizza, half a cup of green beans, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-29": { 
+      "breakfast": "A hearty steak biscuit, half a cup of fruit, and a cup of one percent milk!", 
+      "lunch": "Chicken sandwich on a whole grain bun, half a cup of french fries, half a cup of fruit, and a cup of one percent white milk!" 
+    },
+    "2025-08-30": { "breakfast": "", "lunch": "" },
+    "2025-08-31": { "breakfast": "", "lunch": "" }
     }
   }
