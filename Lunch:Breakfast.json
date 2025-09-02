@@ -72,7 +72,12 @@
       "lunch": "Regular or spicy chicken sandwich, turkey sandwich or turkey and cheese, crispy french fries, lettuce and tomato trimmings for grades six through twelve, plus fresh fruit and milk choices!" 
     },
     "2025-08-30": { "breakfast": "", "lunch": "" },
-    "2025-08-31": { "breakfast": "", "lunch": "" }
+    "2025-08-31": { "breakfast": "", "lunch": "" },
+
+    "2025-09-02": {
+  "breakfast": "Rise and shine! Today’s breakfast lets you choose your adventure: a yummy chicken sausage croissant, OR any two of your favorite 'Choose 2' breakfast items! It all comes with crispy tator tots, fresh fruit, and cold milk to start your day strong!",
+  "lunch": "Lunchtime is delicious with chicken and waffles! You can also grab a cool yogurt parfait, or a baked potato—big for grades six through twelve, half for kindergarten through fifth. Don’t forget the broccoli and cheese, plus a cheesy cup for your potato. Top it all off with fresh fruit and your favorite milk choice!"
+}
 
     },
   "prek_headstart": {
@@ -148,6 +153,12 @@
       "lunch": "Chicken sandwich on a whole grain bun, half a cup of french fries, half a cup of fruit, and a cup of one percent white milk!" 
     },
     "2025-08-30": { "breakfast": "", "lunch": "" },
-    "2025-08-31": { "breakfast": "", "lunch": "" }
+    "2025-08-31": { "breakfast": "", "lunch": "" },
+
+    "2025-09-02": {
+  "breakfast": "Breakfast today is a chicken sausage on a whole grain croissant. It’s served with a half cup of fruit and a cup of one percent milk.",
+  "lunch": "For lunch, enjoy whole grain chicken tenders with broccoli and cheese, a half cup of fruit, and a cup of one percent white milk."
+}
+
     }
   }
