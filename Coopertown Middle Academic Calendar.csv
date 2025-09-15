@@ -1,18 +1,4 @@
 Event Name,Event Start,Event End,Event Location,Event Description
-Spirit Week (Jersey Day),2024-08-19,2024-08-20,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Wear the jersey of your favorite sports team or play
-"
-Spirit Week (Pajamas Day),2024-08-20,2024-08-21,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Wear your pajamas to school (must still be in RCS dress code)
-"
-Spirit Week (Twin Day),2024-08-21,2024-08-22,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Find a friend and dress alike
-"
-Spirit Week (Spirit Day),2024-08-22,2024-08-23,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Wear school colors (purple, yellow/gold, white) to support the football team and homecoming delegates
-"
-Parent-Teacher Conferences,2024-09-10 03:30 PM,2024-09-10 06:30 PM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Everyone is welcome.  Reach out to your child's teacher to schedule a time.
-"
-8th Grade President Speeches,2024-09-12 07:20 AM,2024-09-12 07:40 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During Morning Announcements
-"
-Class President Election Day,2024-09-13,2024-09-14,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Voting done during Homeroom time
-"
 Kona Ice ,2024-09-24,2024-09-25,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","
 "
 ELA Benchmarks,2024-09-24 07:30 AM,2024-09-24 08:20 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","
@@ -185,9 +171,23 @@ Kona Ice,2025-08-26,2025-08-27,"Coopertown Middle School (3820 Highway 49 W, Spr
 "
 Club Meetings,2025-08-29 07:30 AM,2025-08-29 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
 "
+School Spirit Week (School Spirit Day),2025-09-02,2025-09-03,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Wear your school colors to celebrate tonight's homecoming football game.
+"
+School Spirit Week (Disney Day),2025-09-03,2025-09-04,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Dress as your favorite Disney character
+"
+School Spirit Week (Camo Day),2025-09-04,2025-09-05,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Dress up in your camo gear
+"
+School Spirit Week (Beach Day),2025-09-05,2025-09-06,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","Dress up in your beach attire (must meet dress code)
+"
 Volleyball Postseason Meeting,2025-09-11 07:00 AM,2025-09-11 08:00 AM,"Robertson County Schools (800 Ms Couts Blvd, Springfield, TN 37172, United States)","
 "
 Club Meetings,2025-09-12 07:30 AM,2025-09-12 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
+"
+Fall Picture Day,2025-09-16,2025-09-17,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","
+"
+4H Meetings,2025-09-24,2025-09-25,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","6th Grade during 3rd Period
+7th Grade during 4th Period
+8th Grade during 9th Period
 "
 Club Meetings,2025-09-26 07:30 AM,2025-09-26 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
 "
@@ -198,6 +198,12 @@ Club Meetings,2025-10-10 07:30 AM,2025-10-10 08:00 AM,"Coopertown Middle School 
 Club Meetings,2025-10-24 07:30 AM,2025-10-24 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
 "
 Kona Ice,2025-10-28,2025-10-29,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","
+"
+Parent-Teacher Conferences,2025-11-04 12:00 PM,2025-11-04 07:00 PM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","
+"
+4H Meetings,2025-11-05,2025-11-06,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","6th Grade during 3rd Period
+7th Grade during 4th Period
+8th Grade during 9th Period
 "
 Club Meetings,2025-11-14 07:30 AM,2025-11-14 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
 "
@@ -210,6 +216,10 @@ Kona Ice,2025-12-17,2025-12-18,"Coopertown Middle School (3820 Highway 49 W, Spr
 Club Meetings,2026-01-16 07:30 AM,2026-01-16 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
 "
 Kona Ice,2026-01-27,2026-01-28,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","
+"
+4H Meetings,2026-01-28,2026-01-29,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","6th Grade during 3rd Period
+7th Grade during 4th Period
+8th Grade during 9th Period
 "
 Club Meetings,2026-01-30 07:30 AM,2026-01-30 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
 "
@@ -224,6 +234,10 @@ Club Meetings,2026-03-13 07:30 AM,2026-03-13 08:00 AM,"Coopertown Middle School 
 Club Meetings,2026-03-27 07:30 AM,2026-03-27 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
 "
 Kona Ice,2026-03-31,2026-04-01,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","
+"
+4H Meetings,2026-04-08,2026-04-09,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","6th Grade during 3rd Period
+7th Grade during 4th Period
+8th Grade during 9th Period
 "
 Club Meetings,2026-04-10 07:30 AM,2026-04-10 08:00 AM,"Coopertown Middle School (3820 Highway 49 W, Springfield, TN 37172, United States)","During ETS Time
 "
