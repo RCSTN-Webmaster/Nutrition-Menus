@@ -1,5 +1,9 @@
 {
   "default": {
+        "2025-09-30": {
+      "breakfast": "Good morning! Enjoy a chicken sausage croissant, or a fudge poptart pack. Served with crispy tator tots, fruit, and milk choices.",
+      "lunch": "Let’s end September deliciously! Lunchtime is chicken and waffles. Other choices are yogurt parfait, or a baked potato—big for grades six through twelve, and half for kindergarten through fifth. On the side, broccoli and cheese, cheese cup for the potato, fresh fruit, and milk choices."
+    },
     "2025-10-01": {
       "breakfast": "Rise and shine! For breakfast, you can enjoy a sweet cinnamon swirl, or a big bowl of honey Cheerios cereal. Served with fresh fruit and your choice of milk.",
       "lunch": "Here’s what’s cooking for lunch! Spaghetti and meatballs with a warm dinner roll! Other choices include chef salads, or a grilled cheese sandwich for grades six through twelve. On the side, enjoy fresh baby carrots with ranch, green beans for grades six through twelve, plus fruit and milk choices."
@@ -81,10 +85,6 @@
     "2025-10-31": {
       "breakfast": "Happy Friday! Start your day with a tasty chicken biscuit, or a big bowl of cinnamon toast cereal. Served with fruit and milk choices.",
       "lunch": "Friday lunch is eggs, sausage, and a biscuit. You can also have a turkey sandwich or turkey and cheese. On the side, crispy tator tots, white gravy, sliced tomatoes for grades six through twelve, fruit, and milk choices."
-    },
-    "2025-09-30": {
-      "breakfast": "Good morning! Enjoy a chicken sausage croissant, or a fudge poptart pack. Served with crispy tator tots, fruit, and milk choices.",
-      "lunch": "Let’s end September deliciously! Lunchtime is chicken and waffles. Other choices are yogurt parfait, or a baked potato—big for grades six through twelve, and half for kindergarten through fifth. On the side, broccoli and cheese, cheese cup for the potato, fresh fruit, and milk choices."
     }
 
 },
