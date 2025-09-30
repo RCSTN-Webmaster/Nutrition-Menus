@@ -89,92 +89,92 @@
 
 },
 
-  "prek_headstart": {
-    "2025-09-02": { "breakfast": "", "lunch": "" },
-    "2025-09-03": {
-      "breakfast": "Today’s breakfast is whole grain Cheerios with fruit and cold milk.",
-      "lunch": "Lunch is spaghetti and meatballs with whole grain pasta, served with fresh baby carrots and ranch, fruit, and milk."
-    },
-    "2025-09-04": {
-      "breakfast": "Breakfast is a whole grain muffin with fruit and milk.",
-      "lunch": "It’s pizza day! Whole grain cheese pizza with corn, fruit, and milk."
-    },
-    "2025-09-05": {
-      "breakfast": "Start your day with a chicken biscuit, plus fruit and milk.",
-      "lunch": "Lunch is a hamburger on a whole grain bun, baked beans, fruit, and milk."
-    },
-    "2025-09-06": { "breakfast": "", "lunch": "" },
-    "2025-09-07": { "breakfast": "", "lunch": "" },
-    "2025-09-08": {
-      "breakfast": "Breakfast is a sweet cinnamon waffle with fruit and milk.",
-      "lunch": "Enjoy whole grain chicken with steamed broccoli, fruit, and milk."
-    },
-    "2025-09-09": {
-      "breakfast": "Breakfast is chicken sausage on a whole grain croissant, with fruit and milk.",
-      "lunch": "Lunch is taco meat with crunchy whole grain tortilla chips, pinto beans, cheddar cheese, fruit, and milk."
-    },
-    "2025-09-10": {
-      "breakfast": "Enjoy whole grain mini maple pancakes with fruit and milk.",
-      "lunch": "Lunch is Salisbury steak on a whole grain roll, with steamed carrots and milk."
-    },
-    "2025-09-11": {
-      "breakfast": "Breakfast is a whole grain blueberry muffin, with fruit and milk.",
-      "lunch": "It’s whole grain cheese pizza with green beans, fruit, and milk."
-    },
-    "2025-09-12": {
-      "breakfast": "Today’s breakfast is a steak biscuit with fruit and milk.",
-      "lunch": "Lunch is a chicken sandwich on a whole grain bun, served with French fries, fruit, and milk."
-    },
-    "2025-09-13": { "breakfast": "", "lunch": "" },
-    "2025-09-14": { "breakfast": "", "lunch": "" },
-    "2025-09-15": { "breakfast": "", "lunch": "" },
-    "2025-09-16": {
-      "breakfast": "Breakfast is chicken sausage on a whole grain croissant, with fruit and milk.",
-      "lunch": "Lunch is a turkey and cheese sandwich, sweet glazed carrots, fruit, and milk."
-    },
-    "2025-09-17": {
-      "breakfast": "Breakfast is whole grain Cheerios with fruit and milk.",
-      "lunch": "Enjoy whole grain chicken parmesan bites with green beans, fruit, and milk."
-    },
-    "2025-09-18": {
-      "breakfast": "Breakfast is a blueberry muffin made with whole grains, plus fruit and milk.",
-      "lunch": "Lunch is whole grain cheese pizza with corn, fruit, and milk."
-    },
-    "2025-09-19": {
-      "breakfast": "Start the day with a chicken biscuit, fruit, and milk.",
-      "lunch": "Breakfast for lunch! Scrambled eggs, a chicken sausage patty, and a biscuit, with tater tots, fruit, and milk."
-    },
-    "2025-09-20": { "breakfast": "", "lunch": "" },
-    "2025-09-21": { "breakfast": "", "lunch": "" },
-    "2025-09-22": {
-      "breakfast": "Enjoy a warm cinnamon waffle with fruit and milk.",
-      "lunch": "Lunch is mandarin orange chicken with whole grain fried rice, steamed broccoli, fruit, and milk."
-    },
-    "2025-09-23": {
-      "breakfast": "Breakfast is chicken sausage on a whole grain croissant, with fruit and milk.",
-      "lunch": "Lunch is whole grain chicken with Alfredo pasta, steamed carrots, fruit, and milk."
-    },
-    "2025-09-24": {
-      "breakfast": "Breakfast is whole grain Cinnamon Toast Crunch cereal, with fruit and milk.",
-      "lunch": "Lunch is a grilled cheese sandwich on whole grain bread, with refried beans, fruit, and milk."
-    },
-    "2025-09-25": {
-      "breakfast": "Today’s breakfast is a whole grain blueberry muffin with fruit and milk.",
-      "lunch": "Lunch is whole grain cheese pizza with green beans, fruit, and milk."
-    },
-    "2025-09-26": {
-      "breakfast": "Start your day with a steak biscuit, fruit, and milk.",
-      "lunch": "Lunch is a chicken sandwich on a whole grain bun, French fries, fruit, and milk."
-    },
-    "2025-09-27": { "breakfast": "", "lunch": "" },
-    "2025-09-28": { "breakfast": "", "lunch": "" },
-    "2025-09-29": {
-      "breakfast": "Breakfast is a cinnamon waffle with fruit and milk.",
-      "lunch": "Enjoy whole grain chicken with mashed potatoes and gravy, fruit, and milk."
-    },
-    "2025-09-30": {
+"prek_headstart": {
+      "2025-09-30": {
       "breakfast": "Breakfast is chicken sausage on a whole grain croissant, with fruit and milk.",
       "lunch": "Lunch is whole grain chicken tenders with broccoli and cheese, fruit, and milk."
+    },
+    "2025-10-01": {
+      "breakfast": "1 oz. Whole Grain Cheerios, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Spaghetti and Meatballs with Whole Grain Pasta, ½ cup Fresh Baby Carrots w/ Ranch, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-02": {
+      "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
+      "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-03": {
+      "breakfast": "Chicken Biscuit, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Hamburger on Whole Grain Bun, ½ cup Baked Beans, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-04": { "breakfast": "", "lunch": "" },
+    "2025-10-05": { "breakfast": "", "lunch": "" },
+    "2025-10-06": {
+      "breakfast": "Cinnamon Waffle, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Whole Grain Chicken, ½ cup Steamed Broccoli, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-07": { "breakfast": "", "lunch": "" },
+    "2025-10-08": {
+      "breakfast": "Whole Grain Mini Maple Pancakes, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Salisbury Steak on Whole Grain Roll, ½ cup Steamed Carrots, 1 cup 1% White Milk"
+    },
+    "2025-10-09": {
+      "breakfast": "Whole Grain Blueberry Muffin, ½ cup Fruit, 1 cup 1% White Milk",
+      "lunch": "Whole Grain Cheese Pizza, ½ cup Green Beans, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-10": {
+      "breakfast": "Steak Biscuit, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Chicken Sandwich on Whole Grain Bun, ½ cup French Fries, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-11": { "breakfast": "", "lunch": "" },
+    "2025-10-12": { "breakfast": "", "lunch": "" },
+    "2025-10-13": { "breakfast": "", "lunch": "" },
+    "2025-10-14": { "breakfast": "", "lunch": "" },
+    "2025-10-15": { "breakfast": "", "lunch": "" },
+    "2025-10-16": { "breakfast": "", "lunch": "" },
+    "2025-10-17": { "breakfast": "", "lunch": "" },
+    "2025-10-18": { "breakfast": "", "lunch": "" },
+    "2025-10-19": { "breakfast": "", "lunch": "" },
+    "2025-10-20": {
+      "breakfast": "Cinnamon Waffle, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Mandarin Orange Chicken, ½ cup Whole Grain Lo Mein Noodles, ½ cup Steamed Broccoli, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-21": {
+      "breakfast": "Chicken Sausage on Whole Grain Croissant, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Taco Meat with Whole Grain Tortilla Chips, ½ cup Pinto Beans, ¼ cup Cheddar Cheese, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-22": {
+      "breakfast": "1 oz. Whole Grain Cinnamon Toast Crunch, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Grilled Cheese Sandwich on Whole Grain Bread, ½ cup Green Beans, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-23": {
+      "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
+      "lunch": "Spaghetti and Meatballs with Whole Grain Pasta, ½ cup Steamed Carrots, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-24": {
+      "breakfast": "Steak Biscuit, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Scrambled Eggs, Chicken Sausage Patty, Biscuit, ½ cup Tator Tots, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-25": { "breakfast": "", "lunch": "" },
+    "2025-10-26": { "breakfast": "", "lunch": "" },
+    "2025-10-27": {
+      "breakfast": "1 oz. Whole Grain Cinnamon Toast Crunch, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Whole Grain Chicken, ½ cup Baked Beans, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-28": {
+      "breakfast": "Chicken Sausage on Whole Grain Croissant, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Turkey and Cheese Sandwich, ½ cup Sweet Glazed Carrots, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-29": {
+      "breakfast": "Bacon Egg and Cheese Burrito, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Grilled Cheese Sandwich on Whole Grain Bread, ½ cup French Fries, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-30": {
+      "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
+      "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
+    },
+    "2025-10-31": {
+      "breakfast": "Chicken Biscuit, ½ cup Fruit, 1 cup 1% Milk",
+      "lunch": "Scrambled Eggs, Chicken Sausage Patty, Biscuit, ½ cup Tator Tots, ½ cup Fruit, 1 cup 1% White Milk"
     }
 
     }
