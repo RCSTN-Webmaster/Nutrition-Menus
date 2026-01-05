@@ -1,149 +1,185 @@
 {
   "default": {
-    "2025-12-04": {
-      "breakfast": "Mini Powdered Doughnut Holes OR 2 Pk Fudge Poptart OR Oatmeal. Served With Fruit and Milk Choices",
+    "2026-01-06": {
+      "breakfast": "Choose One Entrée: Chicken Sausage Croissant OR 2 Pk Fudge Poptart. Served With Tator Tots, Fruit and Milk Choices",
+      "lunch": "Hot Dog on Bun, Yogurt Parfait, Vegetarian Chili, French Fries, Fruit and Milk Choices"
+    },
+    "2026-01-07": {
+      "breakfast": "Choose One Entrée: Bacon Egg and Cheese Burrito OR Large Honey Cheerios Cereal. Served With Fruit and Milk Choices",
+      "lunch": "Chicken Cordon Bleu with Dinner Roll, Grilled Cheese Sandwich, Green Beans, Oven Browned Potato (9-12 Only), Fruit and Milk Choices"
+    },
+    "2026-01-08": {
+      "breakfast": "6 Pk Chocolate Doughnuts OR 2 Pk Fudge Poptart OR Oatmeal. Served With Fruit and Milk Choices",
       "lunch": "Pizza Choices, Hamburger Or Cheeseburger, Corn, Marinara Cup, Fruit and Milk Choices"
     },
-    "2025-12-05": {
-      "breakfast": "Country Steak Biscuit OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
-      "lunch": "Regular or Spicy Chicken Sandwich, French Fries, Lettuce and Tomato Trimmings (6-12 only), Fruit and Milk Choices"
+    "2026-01-09": {
+      "breakfast": "Chicken Biscuit OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
+      "lunch": "Hamburger or Cheeseburger, Baked Beans, Lettuce and Tomato (6-12 Only), Fruit and Milk Choices"
     },
-    "2025-12-06": { "breakfast": "", "lunch": "" },
-    "2025-12-07": { "breakfast": "", "lunch": "" },
 
-    "2025-12-08": {
-      "breakfast": "Banana Bread OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
-      "lunch": "Chicken and Waffles, WoW Butter Sandwich, Baked Potato (6-12) / 1/2 Potato (K-5), Broccoli and Cheese, Cheese Cup for Potato, Fruit and Milk Choices"
+    "2026-01-10": { "breakfast": "", "lunch": "" },
+    "2026-01-11": { "breakfast": "", "lunch": "" },
+
+    "2026-01-12": {
+      "breakfast": "Choose One Entrée: Blueberry Bread OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
+      "lunch": "Mandarin Orange Chicken, WoW Butter Sandwich, Whole Grain Fried Rice, Steamed Broccoli, Fresh Cucumber Coins (6-12 Only), Fruit and Milk Choices"
     },
-    "2025-12-09": {
+    "2026-01-13": {
       "breakfast": "Chicken Sausage Croissant OR 2 Pk Fudge Poptart OR Oatmeal. Served With Tator Tots, Fruit and Milk Choices",
-      "lunch": "Eggs, Sausage, and Biscuit, Yogurt Parfait, Tator Tots, White Gravy, Sliced Tomatoes (6-12 only), Fruit and Milk Choices"
+      "lunch": "Cheesy Spaghetti with Meat Sauce and Garlic Toast, Yogurt Parfait, Sweet Glazed Carrots, Green Beans (6-12 Only), Fruit and Milk Choices"
     },
-    "2025-12-10": {
+    "2026-01-14": {
+      "breakfast": "Choose One Entrée: Mini Maple Pancakes OR Large Honey Cheerios Cereal OR Oatmeal. Served With Fruit and Milk Choices",
+      "lunch": "Chicken and Cheese Taco, Grilled Cheese Sandwich, Shredded Lettuce, Refried Beans, Salsa Cup, Sour Cream (6-12 Only), Fruit and Milk Choices"
+    },
+    "2026-01-15": {
+      "breakfast": "Choose One Entrée: Mini Powdered Doughnut Holes OR 2 Pk Fudge Poptart OR Oatmeal. Served With Fruit and Milk Choices",
+      "lunch": "Pizza Choices, Hamburger Or Cheeseburger, Corn, Marinara Cup, Fruit and Milk Choices"
+    },
+    "2026-01-16": {
+      "breakfast": "Choose One Entrée: Country Steak Biscuit OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
+      "lunch": "Regular or Spicy Chicken Sandwich, French Fries, Lettuce and Tomato Trimmings (6-12 Only), Fruit and Milk Choices"
+    },
+
+    "2026-01-17": { "breakfast": "", "lunch": "" },
+    "2026-01-18": { "breakfast": "", "lunch": "" },
+
+    "2026-01-19": {
+      "breakfast": "No School",
+      "lunch": "No School"
+    },
+    "2026-01-20": {
+      "breakfast": "Chicken Sausage Croissant OR 2 Pk Fudge Poptart OR Oatmeal. Served With Tator Tots, Fruit and Milk Choices",
+      "lunch": "Eggs, Sausage, and Biscuit, Yogurt Parfait, Tator Tots, White Gravy, Sliced Tomatoes (6-12 Only), Fruit and Milk Choices"
+    },
+    "2026-01-21": {
       "breakfast": "Mini Cinni OR Large Honey Cheerios Cereal OR Oatmeal. Served With Fruit and Milk Choices",
-      "lunch": "Meatball Subs, Grilled Cheese Sandwich, Fresh Baby Carrots w/Ranch, Green Beans (6-12), Fruit and Milk Choices"
+      "lunch": "Meatball Subs, Grilled Cheese Sandwich, Fresh Baby Carrots with Ranch, Green Beans (6-12 Only), Fruit and Milk Choices"
     },
-    "2025-12-11": {
+    "2026-01-22": {
       "breakfast": "6 Pk Powdered Doughnuts OR 2 Pk Fudge Poptart OR Oatmeal. Served With Fruit and Milk Choices",
       "lunch": "Pizza Choices, Hamburger Or Cheeseburger, Corn, Marinara Cup, Fruit and Milk Choices"
     },
-    "2025-12-12": {
+    "2026-01-23": {
       "breakfast": "Chicken Biscuit OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
-      "lunch": "Hamburger or Cheeseburger, Baked Beans, Lettuce and Tomato (6-12), Fruit and Milk Choices + C14"
+      "lunch": "Hamburger or Cheeseburger, Baked Beans, Lettuce and Tomato (6-12 Only), Fruit and Milk Choices"
     },
 
-    "2025-12-13": { "breakfast": "", "lunch": "" },
-    "2025-12-14": { "breakfast": "", "lunch": "" },
+    "2026-01-24": { "breakfast": "", "lunch": "" },
+    "2026-01-25": { "breakfast": "", "lunch": "" },
 
-    "2025-12-15": {
+    "2026-01-26": {
       "breakfast": "Cocoa Bread OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
-      "lunch": "Boneless Chicken Bites w/ Roll (6-12 only), BBQ Chicken Bites w/ Roll (6-12 only), Popcorn Chicken (K-5), WoW Butter Sandwich, Steamed Broccoli, Celery Sticks (6-12 only), Fruit and Milk Choices"
+      "lunch": "Boneless Chicken Bites with Roll (6-12 Only), BBQ Chicken Bites with Roll (6-12 Only), Popcorn Chicken (K-5), WoW Butter Sandwich, Steamed Broccoli, Celery Sticks (6-12 Only), Fruit and Milk Choices"
     },
-    "2025-12-16": {
+    "2026-01-27": {
       "breakfast": "Chicken Sausage Croissant OR 2 Pk Fudge Poptart OR Oatmeal. Served With Tator Tots, Fruit and Milk Choices",
-      "lunch": "Taco Meat w/Tortilla Chips, Yogurt Parfait, Pinto Beans, Salsa, Shredded Lettuce, White Queso Cheese, Fruit and Milk Choices"
+      "lunch": "Taco Meat with Tortilla Chips, Yogurt Parfait, Pinto Beans, Salsa, Shredded Lettuce, White Queso Cheese, Fruit and Milk Choices"
     },
-    "2025-12-17": {
+    "2026-01-28": {
       "breakfast": "Turkey Sausage and Ham Bagel OR Large Honey Cheerios Cereal OR Oatmeal. Served With Fruit and Milk Choices",
-      "lunch": "Salisbury Steak with Dinner Roll, Grilled Cheese Sandwich, Steamed Carrots, Green Beans (6-12 only), Fruit and Milk Choices, Chocolate Cupcake"
+      "lunch": "Salisbury Steak with Dinner Roll, Grilled Cheese Sandwich, Steamed Carrots, Green Beans (6-12 Only), Fruit and Milk Choices, Chocolate Cupcake"
     },
-    "2025-12-18": {
+    "2026-01-29": {
       "breakfast": "Mini Glazed Breakfast Bites OR 2 Pk Fudge Poptart OR Oatmeal. Served With Fruit and Milk Choices",
       "lunch": "Pizza Choices, Hamburger Or Cheeseburger, Corn, Marinara Cup, Fruit and Milk Choices"
     },
-    "2025-12-19": {
-      "breakfast": "Country Steak Biscuit OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
-      "lunch": "Half Day. No Lunch Served"
+    "2026-01-30": {
+      "breakfast": "Choose One Entrée: Country Steak Biscuit OR Large Cinnamon Toast Cereal OR Oatmeal. Served With Fruit and Milk Choices",
+      "lunch": "Regular or Spicy Chicken Sandwich, French Fries, Lettuce and Tomato Trimmings (6-12 Only), Fruit and Milk Choices"
     },
-
-    "2025-12-20": { "breakfast": "", "lunch": "" },
-    "2025-12-21": { "breakfast": "", "lunch": "" },
-
-    "2025-12-22": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-23": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-24": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-25": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-26": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-
-    "2025-12-27": { "breakfast": "", "lunch": "" },
-    "2025-12-28": { "breakfast": "", "lunch": "" },
-
-    "2025-12-29": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-30": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-31": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" }
+    "2026-01-31": { "breakfast": "", "lunch": "" }
   },
 
 "prek_headstart": {
-    "2025-12-04": {
-      "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
-      "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-05": {
-      "breakfast": "Steak Biscuit, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Chicken Sandwich on Whole Grain Bun, ½ cup French Fries, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-06": { "breakfast": "", "lunch": "" },
-    "2025-12-07": { "breakfast": "", "lunch": "" },
+  "2026-01-06": {
+    "breakfast": "Chicken Sausage on Whole Grain Croissant, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Grilled Cheese Sandwich on Whole Grain Bread, ½ cup French Fries, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-07": {
+    "breakfast": "Bacon Egg and Cheese Burrito, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Chicken Sandwich on Whole Grain Bun, ½ cup Green Beans, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-08": {
+    "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
+    "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-09": {
+    "breakfast": "Chicken Biscuit, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Hamburger on Whole Grain Bun, ½ cup Baked Beans, ½ cup Fruit, 1 cup 1% White Milk"
+  },
 
-    "2025-12-08": {
-      "breakfast": "Cinnamon Waffle, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Whole Grain Chicken Tenders, ½ cup Broccoli and Cheese, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-09": {
-      "breakfast": "Chicken Sausage on Whole Grain Croissant, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Scrambled Eggs, Chicken Sausage Patty, Biscuit, ½ cup Tator Tots, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-10": {
-      "breakfast": "1 oz. Whole Grain Cheerios, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Meatball Sub on Whole Grain Bun, ½ cup Fresh Baby Carrots w/ Ranch, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-11": {
-      "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
-      "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-12": {
-      "breakfast": "Chicken Biscuit, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Hamburger on Whole Grain Bun, ½ cup Baked Beans, ½ cup Fruit, 1 cup 1% White Milk"
-    },
+  "2026-01-10": { "breakfast": "", "lunch": "" },
+  "2026-01-11": { "breakfast": "", "lunch": "" },
 
-    "2025-12-13": { "breakfast": "", "lunch": "" },
-    "2025-12-14": { "breakfast": "", "lunch": "" },
+  "2026-01-12": {
+    "breakfast": "Cinnamon Waffle, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Mandarin Orange Chicken, ½ cup Whole Grain Fried Rice, ½ cup Steamed Broccoli, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-13": {
+    "breakfast": "Chicken Sausage on Whole Grain Croissant, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Spaghetti and Meat Sauce, ½ cup Sweet Glazed Carrots, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-14": {
+    "breakfast": "Whole Grain Mini Maple Pancakes, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Grilled Cheese Sandwich on Whole Grain Bread, ½ cup Green Beans, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-15": {
+    "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
+    "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-16": {
+    "breakfast": "Steak Biscuit, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Chicken Sandwich on Whole Grain Bun, ½ cup French Fries, ½ cup Fruit, 1 cup 1% White Milk"
+  },
 
-    "2025-12-15": {
-      "breakfast": "Cinnamon Waffle, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Whole Grain Chicken, ½ cup Steamed Broccoli, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-16": {
-      "breakfast": "Chicken Sausage on Whole Grain Croissant, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Taco Meat, Whole Grain Tortilla Chips, ½ cup Pinto Beans, ¼ cup Cheddar Cheese, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-17": {
-      "breakfast": "1 oz. Whole Grain Cinnamon Toast Crunch, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Salisbury Steak on Whole Grain Roll, ½ cup Steamed Carrots, 1 cup 1% White Milk"
-    },
-    "2025-12-18": {
-      "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
-      "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
-    },
-    "2025-12-19": {
-      "breakfast": "Steak Biscuit, ½ cup Fruit, 1 cup 1% Milk",
-      "lunch": "Half Day. No Lunch Served"
-    },
+  "2026-01-17": { "breakfast": "", "lunch": "" },
+  "2026-01-18": { "breakfast": "", "lunch": "" },
 
-    "2025-12-20": { "breakfast": "", "lunch": "" },
-    "2025-12-21": { "breakfast": "", "lunch": "" },
+  "2026-01-19": {
+    "breakfast": "No School",
+    "lunch": "No School"
+  },
+  "2026-01-20": {
+    "breakfast": "Chicken Sausage on Whole Grain Croissant, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Scrambled Eggs, Chicken Sausage Patty, Biscuit, ½ cup Tator Tots, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-21": {
+    "breakfast": "1 oz Whole Grain Cheerios, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Grilled Cheese Sandwich on Whole Grain Bread, ½ cup Fresh Baby Carrots with Ranch, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-22": {
+    "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
+    "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-23": {
+    "breakfast": "Chicken Biscuit, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Hamburger on Whole Grain Bun, ½ cup Baked Beans, ½ cup Fruit, 1 cup 1% White Milk"
+  },
 
-    "2025-12-22": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-24": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-23": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-25": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-26": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
+  "2026-01-24": { "breakfast": "", "lunch": "" },
+  "2026-01-25": { "breakfast": "", "lunch": "" },
 
-    "2025-12-27": { "breakfast": "", "lunch": "" },
-    "2025-12-28": { "breakfast": "", "lunch": "" },
-
-    "2025-12-29": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-30": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" },
-    "2025-12-31": { "breakfast": "Winter Break", "lunch": "Merry Christmas!" }
+  "2026-01-26": {
+    "breakfast": "Cinnamon Waffle, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Whole Grain Chicken, ½ cup Steamed Broccoli, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-27": {
+    "breakfast": "Chicken Sausage on Whole Grain Croissant, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Taco Meat, Whole Grain Tortilla Chips, ½ cup Pinto Beans, ¼ cup Cheddar Cheese, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-28": {
+    "breakfast": "1 oz Whole Grain Cinnamon Toast Crunch, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Salisbury Steak on Whole Grain Roll, ½ cup Steamed Carrots, 1 cup 1% White Milk"
+  },
+  "2026-01-29": {
+    "breakfast": "Whole Grain Muffin, ½ cup Fruit, 1 cup 1% White Milk",
+    "lunch": "Whole Grain Cheese Pizza, ½ cup Corn, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-30": {
+    "breakfast": "Steak Biscuit, ½ cup Fruit, 1 cup 1% Milk",
+    "lunch": "Chicken Sandwich on Whole Grain Bun, ½ cup French Fries, ½ cup Fruit, 1 cup 1% White Milk"
+  },
+  "2026-01-31": { "breakfast": "", "lunch": "" }
   }
 }
